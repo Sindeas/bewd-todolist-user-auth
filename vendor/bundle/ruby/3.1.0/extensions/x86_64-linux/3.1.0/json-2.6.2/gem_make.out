@@ -1,0 +1,13 @@
+current directory: /home/sindeas/bewd-todolist-user-auth/vendor/bundle/ruby/3.1.0/gems/json-2.6.2/ext/json
+/usr/share/rvm/rubies/ruby-3.1.2/bin/ruby -I /usr/share/rvm/rubies/ruby-3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /home/sindeas/bewd-todolist-user-auth/vendor/bundle/ruby/3.1.0/gems/json-2.6.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20221003-1591-hsbcbx sitelibdir\=./.gem.20221003-1591-hsbcbx clean
+
+current directory: /home/sindeas/bewd-todolist-user-auth/vendor/bundle/ruby/3.1.0/gems/json-2.6.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20221003-1591-hsbcbx sitelibdir\=./.gem.20221003-1591-hsbcbx
+make: Nothing to be done for 'all'.
+
+current directory: /home/sindeas/bewd-todolist-user-auth/vendor/bundle/ruby/3.1.0/gems/json-2.6.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20221003-1591-hsbcbx sitelibdir\=./.gem.20221003-1591-hsbcbx install

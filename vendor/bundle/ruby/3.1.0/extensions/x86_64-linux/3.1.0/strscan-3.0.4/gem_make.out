@@ -1,0 +1,16 @@
+current directory: /home/sindeas/bewd-todolist-user-auth/vendor/bundle/ruby/3.1.0/gems/strscan-3.0.4/ext/strscan
+/usr/share/rvm/rubies/ruby-3.1.2/bin/ruby -I /usr/share/rvm/rubies/ruby-3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+creating Makefile
+
+current directory: /home/sindeas/bewd-todolist-user-auth/vendor/bundle/ruby/3.1.0/gems/strscan-3.0.4/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20221003-1591-23rx30 sitelibdir\=./.gem.20221003-1591-23rx30 clean
+
+current directory: /home/sindeas/bewd-todolist-user-auth/vendor/bundle/ruby/3.1.0/gems/strscan-3.0.4/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20221003-1591-23rx30 sitelibdir\=./.gem.20221003-1591-23rx30
+compiling strscan.c
+linking shared-object strscan.so
+
+current directory: /home/sindeas/bewd-todolist-user-auth/vendor/bundle/ruby/3.1.0/gems/strscan-3.0.4/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20221003-1591-23rx30 sitelibdir\=./.gem.20221003-1591-23rx30 install
+/usr/bin/install -c -m 0755 strscan.so ./.gem.20221003-1591-23rx30
